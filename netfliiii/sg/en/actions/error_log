@@ -1,0 +1,27 @@
+[25-Apr-2022 14:52:31 UTC] PHP Warning:  fopen(../fucked/LOGIN.html): failed to open stream: No such file or directory in /home/pamirsho/public_html/wp-content/n/newnetflix/en/actions/login.php on line 17
+[25-Apr-2022 14:52:31 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /home/pamirsho/public_html/wp-content/n/newnetflix/en/actions/login.php on line 18
+[25-Apr-2022 14:52:31 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home/pamirsho/public_html/wp-content/n/newnetflix/en/actions/login.php on line 19
+[25-Apr-2022 14:54:34 UTC] PHP Warning:  fopen(../fucked/LOGIN.html): failed to open stream: No such file or directory in /home/pamirsho/public_html/wp-content/n/newnetflix/en/actions/login.php on line 17
+[25-Apr-2022 14:54:34 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /home/pamirsho/public_html/wp-content/n/newnetflix/en/actions/login.php on line 18
+[25-Apr-2022 14:54:34 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home/pamirsho/public_html/wp-content/n/newnetflix/en/actions/login.php on line 19
+[25-Apr-2022 14:55:21 UTC] PHP Warning:  fopen(../fucked/FULLZ.html): failed to open stream: No such file or directory in /home/pamirsho/public_html/wp-content/n/newnetflix/en/actions/verification.php on line 23
+[25-Apr-2022 14:55:21 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /home/pamirsho/public_html/wp-content/n/newnetflix/en/actions/verification.php on line 24
+[25-Apr-2022 14:55:21 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home/pamirsho/public_html/wp-content/n/newnetflix/en/actions/verification.php on line 25
+[25-Apr-2022 14:55:48 UTC] PHP Warning:  fopen(../fucked/SMS.html): failed to open stream: No such file or directory in /home/pamirsho/public_html/wp-content/n/newnetflix/en/actions/sms.php on line 14
+[25-Apr-2022 14:55:48 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /home/pamirsho/public_html/wp-content/n/newnetflix/en/actions/sms.php on line 15
+[25-Apr-2022 14:55:48 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home/pamirsho/public_html/wp-content/n/newnetflix/en/actions/sms.php on line 16
+[25-Apr-2022 14:56:12 UTC] PHP Warning:  fopen(../fucked/SMS.html): failed to open stream: No such file or directory in /home/pamirsho/public_html/wp-content/n/newnetflix/en/actions/sms2.php on line 14
+[25-Apr-2022 14:56:12 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /home/pamirsho/public_html/wp-content/n/newnetflix/en/actions/sms2.php on line 15
+[25-Apr-2022 14:56:12 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home/pamirsho/public_html/wp-content/n/newnetflix/en/actions/sms2.php on line 16
+[25-Apr-2022 14:57:38 UTC] PHP Warning:  fopen(../fucked/LOGIN.html): failed to open stream: No such file or directory in /home/pamirsho/public_html/wp-content/n/newnetflix/en/actions/login.php on line 17
+[25-Apr-2022 14:57:38 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /home/pamirsho/public_html/wp-content/n/newnetflix/en/actions/login.php on line 18
+[25-Apr-2022 14:57:38 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home/pamirsho/public_html/wp-content/n/newnetflix/en/actions/login.php on line 19
+[16-May-2022 10:48:00 UTC] PHP Warning:  fopen(../fucked/LOGIN.html): failed to open stream: No such file or directory in /home/pamirsho/public_html/wp-content/n/newnetflix/en/actions/login.php on line 17
+[16-May-2022 10:48:00 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /home/pamirsho/public_html/wp-content/n/newnetflix/en/actions/login.php on line 18
+[16-May-2022 10:48:00 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home/pamirsho/public_html/wp-content/n/newnetflix/en/actions/login.php on line 19
+[16-May-2022 10:48:25 UTC] PHP Warning:  fopen(../fucked/FULLZ.html): failed to open stream: No such file or directory in /home/pamirsho/public_html/wp-content/n/newnetflix/en/actions/verification.php on line 23
+[16-May-2022 10:48:25 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /home/pamirsho/public_html/wp-content/n/newnetflix/en/actions/verification.php on line 24
+[16-May-2022 10:48:25 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home/pamirsho/public_html/wp-content/n/newnetflix/en/actions/verification.php on line 25
+[16-May-2022 10:48:46 UTC] PHP Warning:  fopen(../fucked/SMS.html): failed to open stream: No such file or directory in /home/pamirsho/public_html/wp-content/n/newnetflix/en/actions/sms.php on line 14
+[16-May-2022 10:48:47 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /home/pamirsho/public_html/wp-content/n/newnetflix/en/actions/sms.php on line 15
+[16-May-2022 10:48:47 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home/pamirsho/public_html/wp-content/n/newnetflix/en/actions/sms.php on line 16
